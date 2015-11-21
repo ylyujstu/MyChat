@@ -1,0 +1,24 @@
+{
+  "name": "mychat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "YuleiYu <ylyusjtu@126.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}
