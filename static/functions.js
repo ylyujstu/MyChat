@@ -1,4 +1,4 @@
-angular.module('myChatApp', [])
+angular.module('myChatApp', ['ngRoute'])
 
 
 
